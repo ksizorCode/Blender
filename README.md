@@ -10,8 +10,12 @@
 | A         | Seleccionar Todo                              |
 | x         | Borrar                                        |
 | S         | Escalar                       |
+| R         | Rotar                         |
+| G         | Mover     |
+| E         | Duplicar |    
 | Shift + A | Crear                                         |
 | Tab       | Alternas Edit / Object Mode       |
+| V         | Vector Type |
 
 
 

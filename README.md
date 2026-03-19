@@ -11,6 +11,7 @@
 | x         | Borrar                                        |
 | S         | Escalar                       |
 | Shift + A | Crear                                         |
+| Tab       | Alternas Edit / Object Mode       |
 
 
 

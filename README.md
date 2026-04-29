@@ -8,13 +8,13 @@
 | Keys      | Shoftcut                                      |
 |-----------|-----------------------------------------------|
 | A         | Seleccionar Todo                              |
-| x         | Borrar                                        |
-| S         | Escalar                       |
-| R         | Rotar                         |
-| G         | Mover     |
-| E         | Duplicar |    
+| X         | Borrar                                        |
+| S         | Escalar                                       |
+| R         | Rotar                                         |
+| G         | Mover                                         |
 | Shift + A | Crear                                         |
-| Tab       | Alternas Edit / Object Mode       |
+| Shift + D | Duplicar                                      |
+| Tab       | Alternas Edit / Object Mode                   |
 | V         | Vector Type |
 
 

@@ -25,3 +25,13 @@ https://www.canva.com/design/DAHAeEdXzxM/HCl1t0kAQOBwcCGxbHPekQ/view?utm_content
 
 - Imagen de fondo de referencia
     Crear / Empty / Image
+
+
+
+
+.  Focus en el objeto  (frame Selected)
+F3 Frame selected
+
+Shift + A Despliega retrae elementos en el panel objeto
+
+M - Move to Colection

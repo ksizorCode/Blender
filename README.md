@@ -28,9 +28,11 @@ https://www.canva.com/design/DAHAeEdXzxM/HCl1t0kAQOBwcCGxbHPekQ/view?utm_content
 
 
 
-
 .  Focus en el objeto  (frame Selected)
 F3 Frame selected
+
+
+# Outliner / Panel Lista de Objetos
 
 Shift + A Despliega retrae elementos en el panel objeto
 
